@@ -53,7 +53,7 @@ This project demonstrates customer analytics using SQL. It performs customer seg
 Advanced SQL techniques used include CTEs, window functions, and conditional statements.  
 Insights from this project can be used for targeted marketing, loyalty programs, and personalized customer experiences.  
 
-🔗 *GitHub Repo:* (add link)
+🔗 *GitHub Repo: github.com/bonnilee/sql-customer-segmentation
 
 ---
 
@@ -70,7 +70,7 @@ This web application allows users to upload a PDF and search for word occurrence
 - Search for a specific keyword  
 - Visualize occurrences in a chart  
 
-🔗 *GitHub Repo:* (add link)  
+🔗 *GitHub Repo:* github.com/bonnilee/WordCounter 
 
 
 ---
@@ -96,17 +96,15 @@ A full exploratory data analysis (EDA) project exploring trends in popular songs
 - High danceability and moderate energy dominate popular songs.  
 - More platform presence generally correlates with higher stream counts.  
 
-🔗 *GitHub Repo:* (add link)  
+🔗 *GitHub Repo: github.com/bonnilee/spotify 
 
 
 ---
 
 ## 🔗 Connect With Me
-- LinkedIn: (add your link)
-- GitHub: (this page)
-- Portfolio Website (optional)
-- Medium / Blog (optional)
-- Email: (your email here)
+- LinkedIn: www.linkedin.com/in/bonni-lynch-b08a98305
+- GitHub: github.com/bonnilee
+- Email: lynchbonni@gmail.com
 
 ---
 
