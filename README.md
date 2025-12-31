@@ -31,6 +31,7 @@ Actively seeking opportunities as a Data Scientist, Machine Learning Engineer, o
 - Git & GitHub
 - VS Code
 - Flask
+- MongoDB
 
 ### Concepts
 - RFM Analysis
@@ -39,6 +40,7 @@ Actively seeking opportunities as a Data Scientist, Machine Learning Engineer, o
 - CTEs & SQL Analytics
 - EDA & Feature Analysis
 - Dashboarding / Reporting
+- Predictive Modeling
 
 ---
 
@@ -53,7 +55,7 @@ This project demonstrates customer analytics using SQL. It performs customer seg
 Advanced SQL techniques used include CTEs, window functions, and conditional statements.  
 Insights from this project can be used for targeted marketing, loyalty programs, and personalized customer experiences.  
 
-🔗 *GitHub Repo: www.github.com/bonnilee/sql-customer-segmentation
+🔗 *GitHub Repo:* [sql-customer-segmentation](https://github.com/bonnilee/sql-customer-segmentation)
 
 ---
 
@@ -70,8 +72,7 @@ This web application allows users to upload a PDF and search for word occurrence
 - Search for a specific keyword  
 - Visualize occurrences in a chart  
 
-🔗 *GitHub Repo:* www.github.com/bonnilee/WordCounter 
-
+🔗 *GitHub Repo:* [WordCounter](https://github.com/bonnilee/WordCounter)
 
 ---
 
@@ -96,15 +97,30 @@ A full exploratory data analysis (EDA) project exploring trends in popular songs
 - High danceability and moderate energy dominate popular songs.  
 - More platform presence generally correlates with higher stream counts.  
 
-🔗 *GitHub Repo: www.github.com/bonnilee/spotify 
+🔗 *GitHub Repo:* [spotify](https://github.com/bonnilee/spotify)
 
+---
+
+### 4️⃣ BandersnatchStarter  
+**Tech:** Python, Flask, MongoDB, Pandas  
+**Concepts:** Web app backend, data management, predictive modeling, data visualization  
+
+BandersnatchStarter is a web application for managing and analyzing “monster” data. It demonstrates end-to-end data workflows including storage, cleaning, feature engineering, and predictive modeling.  
+
+**Features:**  
+- MongoDB database for storing monster attributes  
+- Pandas for data wrangling and feature preparation  
+- Logistic Regression and Random Forest for predictive modeling  
+- Flask web app for interactive data analysis and visualization  
+
+🔗 *GitHub Repo:* [BandersnatchStarter](https://github.com/bonnilee/BandersnatchStarter)
 
 ---
 
 ## 🔗 Connect With Me
-- LinkedIn: www.linkedin.com/in/bonni-lynch-b08a98305
-- GitHub: www.github.com/bonnilee
-- Email: lynchbonni@gmail.com
+- LinkedIn: [Bonni Lynch](https://www.linkedin.com/in/bonni-lynch-b08a98305)  
+- GitHub: [bonnilee](https://www.github.com/bonnilee)  
+- Email: lynchbonni@gmail.com  
 
 ---
 
@@ -115,10 +131,6 @@ A full exploratory data analysis (EDA) project exploring trends in popular songs
 
 Open to remote or U.S.-based roles (full-time or contract).
 
----
-
-Thanks for visiting my profile! 🚀  
-Feel free to explore my repositories or reach out!
 
 
 
